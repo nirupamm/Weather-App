@@ -3,7 +3,7 @@ This is a simple weather application that fetches and displays current weather i
 
 Features:
 
-Fetches live weather data using the OpenWeatherMap API
-Provides temperature, weather description, and icon for any city
-Interactive search bar with error messages for empty or invalid inputs
-Styled with a responsive, user-friendly design
+Fetches live weather data using the OpenWeatherMap API,
+Provides temperature, weather description, and icon for any city,
+Interactive search bar with error messages for empty or invalid inputs,
+Styled with a responsive, user-friendly design.
